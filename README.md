@@ -26,6 +26,6 @@ ionic serve
 
 ## Improve
 
-If you want to improve Dragon Dashboard, just clone this repo and the create a PR. You can always contact me via twitter ([at]henkjurriens) or by email (henk.jurriens[at]gmail.conm)
+If you want to improve Dragon Dashboard, just clone this repo and create a PR. You can always contact me via twitter ([at]henkjurriens) or by email (henk.jurriens[at]gmail.conm)
 
 
